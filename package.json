@@ -1,21 +1,21 @@
 {
   "name": "kf-getticket",
-  "version": "1.0.0",
-  "description": "Kortforsyningens getticket",
+  "version": "1.0.1",
+  "description": "Dataforsyningen getToken",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanmarksAdresser/kf-getticket.git"
+    "url": "git+https://github.com/Dataforsyningen/kf-getticket.git"
   },
   "author": "Finn Jordal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DanmarksAdresser/kf-getticket/issues"
+    "url": "https://github.com/Dataforsyningen/kf-getticket/issues"
   },
-  "homepage": "https://github.com/DanmarksAdresser/kf-getticket#readme",
+  "homepage": "https://github.com/Dataforsyningen/kf-getticket#readme",
   "dependencies": {
     "request-promise": "^4.2.1"
   }
